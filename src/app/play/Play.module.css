@@ -1,0 +1,147 @@
+.container {
+    padding: 8rem 4rem 4rem;
+    min-height: 100vh;
+    max-width: 1600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header {
+    margin-bottom: 4rem;
+    animation: fadeIn 0.8s ease-out;
+}
+
+.header h1 {
+    font-size: 3.5rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    color: #fff;
+}
+
+.header h1 span {
+    background: linear-gradient(135deg, #fff, var(--primary));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.gameGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2.5rem;
+    perspective: 1000px;
+}
+
+.gameCard {
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    border-radius: 24px;
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    backdrop-filter: blur(20px);
+}
+
+.gameCard:hover {
+    transform: translateY(-10px) rotateX(5deg);
+    border-color: var(--primary);
+    box-shadow: 0 25px 50px -12px rgba(99, 102, 241, 0.5);
+}
+
+.gameCard::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg,
+            transparent,
+            rgba(255, 255, 255, 0.05),
+            transparent);
+    transition: 0.5s;
+}
+
+.gameCard:hover::before {
+    left: 100%;
+}
+
+.icon {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    filter: drop-shadow(0 0 15px rgba(255, 255, 255, 0.2));
+}
+
+.gameCard h3 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #fff;
+}
+
+.gameCard p {
+    color: var(--text-secondary);
+    line-height: 1.6;
+    font-size: 1.05rem;
+}
+
+.playBtn {
+    margin-top: 1rem;
+    background: var(--primary);
+    color: #fff;
+    padding: 0.8rem 2.5rem;
+    border-radius: 99px;
+    font-weight: 700;
+    border: none;
+    transition: all 0.3s;
+    box-shadow: 0 4px 15px rgba(99, 102, 241, 0.3);
+}
+
+.gameCard:hover .playBtn {
+    background: #fff;
+    color: var(--primary);
+    transform: scale(1.05);
+}
+
+.comingSoon {
+    background: rgba(255, 255, 255, 0.05);
+    color: #9ca3af;
+    cursor: not-allowed;
+}
+
+.comingSoon:hover {
+    transform: none;
+    border-color: var(--glass-border);
+    box-shadow: none;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding-top: 6rem;
+    }
+
+    .header h1 {
+        font-size: 2.5rem;
+    }
+
+    .gameGrid {
+        grid-template-columns: 1fr;
+    }
+}

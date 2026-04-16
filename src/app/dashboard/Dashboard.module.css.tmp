@@ -1,0 +1,450 @@
+.container {
+    padding: 8rem 2rem 4rem;
+    min-height: 100vh;
+    max-width: var(--max-width);
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.header {
+    text-align: left;
+    max-width: 800px;
+    animation: fadeIn 0.8s ease-out;
+}
+
+.header h1 {
+    font-size: 3.5rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+    background: linear-gradient(to right, #fff, var(--primary));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: -0.03em;
+}
+
+.header p {
+    font-size: 1.2rem;
+    color: var(--text-secondary);
+    max-width: 600px;
+}
+
+/* Upload Section */
+.uploadSection {
+    width: 100%;
+    background: var(--glass-bg);
+    border: 2px dashed var(--border-color);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-radius: calc(var(--radius) * 1.5);
+    padding: 5rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    cursor: pointer;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    animation: slideUp 0.8s ease-out 0.2s backwards;
+}
+
+.uploadSection:hover {
+    border-color: var(--primary);
+    background: rgba(99, 102, 241, 0.05);
+    transform: translateY(-4px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+}
+
+.activeDrop {
+    border-color: var(--primary);
+    background: rgba(99, 102, 241, 0.1);
+    transform: scale(1.01);
+}
+
+.iconWrapper {
+    width: 100px;
+    height: 100px;
+    border-radius: 30%;
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(168, 85, 247, 0.1));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--primary);
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    transition: transform 0.3s ease;
+}
+
+.uploadSection:hover .iconWrapper {
+    transform: rotate(10deg) scale(1.1);
+}
+
+.uploadText {
+    text-align: center;
+}
+
+.uploadText h3 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 0.5rem;
+}
+
+.uploadText p {
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+}
+
+.fileInput {
+    display: none;
+}
+
+/* Progress Section */
+.progressSection {
+    width: 100%;
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    backdrop-filter: blur(12px);
+    border-radius: var(--radius);
+    padding: 2rem;
+    animation: slideUp 0.6s ease-out;
+}
+
+.progressSection h3 {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+    color: var(--text-primary);
+}
+
+.progressBarContainer {
+    margin-bottom: 1.5rem;
+}
+
+.progressBarLabel {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.75rem;
+}
+
+.progressBar {
+    width: 100%;
+    height: 10px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.progressBarFill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--primary), var(--secondary));
+    border-radius: 20px;
+    transition: width 0.4s ease;
+    box-shadow: 0 0 15px rgba(99, 102, 241, 0.5);
+}
+
+/* Recent Documents Section */
+.recentSection {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    animation: slideUp 0.8s ease-out 0.4s backwards;
+}
+
+.recentHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.recentHeader h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    letter-spacing: -0.02em;
+}
+
+.documentList {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+.docCard {
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1);
+    cursor: pointer;
+    position: relative;
+}
+
+.docCard:hover {
+    transform: scale(1.02) translateY(-4px);
+    border-color: var(--primary);
+    background: rgba(30, 41, 59, 0.7);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+}
+
+.docIcon {
+    width: 50px;
+    height: 50px;
+    flex-shrink: 0;
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(168, 85, 247, 0.1));
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--primary);
+    font-size: 1.5rem;
+}
+
+.docInfo {
+    flex: 1;
+    overflow: hidden;
+}
+
+.docInfo h4 {
+    color: var(--text-primary);
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.docInfo span {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+}
+
+/* Status & Processing */
+.statusBadge {
+    background: rgba(34, 197, 94, 0.1);
+    color: #22c55e;
+    padding: 0.25rem 0.75rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    border: 1px solid rgba(34, 197, 94, 0.2);
+}
+
+.processBtn {
+    background: var(--primary);
+    color: white;
+    padding: 0.4rem 1rem;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.processBtn:hover {
+    background: var(--primary-hover);
+}
+
+.smallSpinner {
+    width: 20px;
+    height: 20px;
+    border: 2px solid rgba(99, 102, 241, 0.1);
+    border-top-color: var(--primary);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+/* Modal UI */
+.modalOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    backdrop-filter: blur(8px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1100;
+    padding: 2rem;
+}
+
+.modalContent {
+    background: var(--bg-primary);
+    border: 1px solid var(--glass-border);
+    border-radius: calc(var(--radius) * 1.5);
+    width: 100%;
+    max-width: 900px;
+    max-height: 85vh;
+    overflow-y: auto;
+    padding: 3rem;
+    position: relative;
+    animation: slideUp 0.4s ease-out;
+}
+
+.closeBtn {
+    position: absolute;
+    top: 1.5rem;
+    right: 1.5rem;
+    font-size: 2rem;
+    color: var(--text-muted);
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.parsedContent {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    margin-top: 2rem;
+}
+
+.parsedSection h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--primary);
+}
+
+.parsedSection p {
+    color: var(--text-secondary);
+    line-height: 1.8;
+}
+
+.parsedSection ul {
+    list-style: none;
+    padding: 0;
+}
+
+.parsedSection li {
+    padding-left: 1.5rem;
+    position: relative;
+    margin-bottom: 1rem;
+    color: var(--text-secondary);
+}
+
+.parsedSection li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--primary);
+}
+
+.glossaryGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1.5rem;
+}
+
+.glossaryItem {
+    background: rgba(255, 255, 255, 0.03);
+    padding: 1.5rem;
+    border-radius: var(--radius);
+    border: 1px solid var(--glass-border);
+}
+
+.glossaryItem strong {
+    display: block;
+    color: white;
+    margin-bottom: 0.5rem;
+}
+
+.quizList {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.quizItem {
+    background: rgba(255, 255, 255, 0.02);
+    padding: 2rem;
+    border-radius: var(--radius);
+}
+
+.quizOptions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
+.option {
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--glass-border);
+    border-radius: 8px;
+    font-size: 0.95rem;
+}
+
+.loadingContainer {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.spinner {
+    width: 60px;
+    height: 60px;
+    border: 4px solid rgba(99, 102, 241, 0.1);
+    border-top-color: var(--primary);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 6rem 1.5rem 3rem;
+    }
+
+    .header h1 {
+        font-size: 2.5rem;
+    }
+
+    .documentList {
+        grid-template-columns: 1fr;
+    }
+
+    .quizOptions {
+        grid-template-columns: 1fr;
+    }
+}
