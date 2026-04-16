@@ -1,0 +1,1152 @@
+2026-03-10 20:31:07,987 DEBUG: Using proactor: IocpProactor
+2026-03-10 20:33:46,985 DEBUG: Calling on_part_begin with no data
+2026-03-10 20:33:46,987 DEBUG: Calling on_header_field with data[42:61]
+2026-03-10 20:33:46,988 DEBUG: Calling on_header_value with data[63:122]
+2026-03-10 20:33:46,988 DEBUG: Calling on_header_end with no data
+2026-03-10 20:33:46,990 DEBUG: Calling on_header_field with data[124:136]
+2026-03-10 20:33:46,990 DEBUG: Calling on_header_value with data[138:153]
+2026-03-10 20:33:46,991 DEBUG: Calling on_header_end with no data
+2026-03-10 20:33:46,992 DEBUG: Calling on_headers_finished with no data
+2026-03-10 20:33:46,992 DEBUG: Calling on_part_data with data[157:16384]
+2026-03-10 20:33:46,994 DEBUG: Calling on_part_data with data[0:98304]
+2026-03-10 20:33:46,999 DEBUG: Calling on_part_data with data[0:131072]
+2026-03-10 20:33:47,000 DEBUG: Calling on_part_data with data[0:94202]
+2026-03-10 20:33:47,000 DEBUG: Calling on_part_end with no data
+2026-03-10 20:33:47,001 DEBUG: Calling on_end with no data
+2026-03-10 20:34:23,232 DEBUG: Calling on_part_begin with no data
+2026-03-10 20:34:23,233 DEBUG: Calling on_header_field with data[42:61]
+2026-03-10 20:34:23,233 DEBUG: Calling on_header_value with data[63:138]
+2026-03-10 20:34:23,233 DEBUG: Calling on_header_end with no data
+2026-03-10 20:34:23,233 DEBUG: Calling on_header_field with data[140:152]
+2026-03-10 20:34:23,233 DEBUG: Calling on_header_value with data[154:169]
+2026-03-10 20:34:23,233 DEBUG: Calling on_header_end with no data
+2026-03-10 20:34:23,233 DEBUG: Calling on_headers_finished with no data
+2026-03-10 20:34:23,234 DEBUG: Calling on_part_data with data[173:16384]
+2026-03-10 20:34:23,237 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,240 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,243 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,245 DEBUG: Calling on_part_data with data[0:98304]
+2026-03-10 20:34:23,247 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,248 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,249 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,250 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,255 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 20:34:23,256 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,261 DEBUG: Calling on_part_data with data[0:65536]
+2026-03-10 20:34:23,264 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 20:34:23,265 DEBUG: Calling on_part_data with data[0:98304]
+2026-03-10 20:34:23,267 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,267 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,270 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,273 DEBUG: Calling on_part_data with data[0:65536]
+2026-03-10 20:34:23,276 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,277 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,279 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,279 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,300 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 20:34:23,334 DEBUG: Calling on_part_data with data[0:131072]
+2026-03-10 20:34:23,338 DEBUG: Calling on_part_data with data[0:131072]
+2026-03-10 20:34:23,340 DEBUG: Calling on_part_data with data[0:131072]
+2026-03-10 20:34:23,341 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 20:34:23,342 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,344 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 20:34:23,345 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 20:34:23,347 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 20:34:23,348 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 20:34:23,349 DEBUG: Calling on_part_data with data[0:98304]
+2026-03-10 20:34:23,350 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 20:34:23,352 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,354 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,355 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,356 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,357 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,359 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,360 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 20:34:23,362 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 20:34:23,363 DEBUG: Calling on_part_data with data[0:98304]
+2026-03-10 20:34:23,365 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 20:34:23,366 DEBUG: Calling on_part_data with data[0:98304]
+2026-03-10 20:34:23,367 DEBUG: Calling on_part_data with data[0:81919]
+2026-03-10 20:34:23,369 DEBUG: Calling on_part_data with data[0:1]
+2026-03-10 20:34:23,369 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 20:34:23,371 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,372 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,374 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,375 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,376 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,377 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,379 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,380 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,381 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,381 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,383 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,383 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,385 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,387 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,388 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,389 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,390 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,391 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,392 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,393 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,394 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,395 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,396 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,398 DEBUG: Calling on_part_data with data[0:65536]
+2026-03-10 20:34:23,398 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,399 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,400 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,401 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,402 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,404 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,405 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,426 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,428 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,429 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,430 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,431 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,432 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,433 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,434 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,435 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,436 DEBUG: Calling on_part_data with data[0:65536]
+2026-03-10 20:34:23,438 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,439 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,441 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,442 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,443 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,443 DEBUG: Calling on_part_data with data[0:65536]
+2026-03-10 20:34:23,445 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,446 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,447 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,448 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,448 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,449 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,450 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,451 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,453 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,454 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,455 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,457 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,459 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,461 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,462 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,463 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,466 DEBUG: Calling on_part_data with data[0:65536]
+2026-03-10 20:34:23,467 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,468 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,469 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,470 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,471 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,474 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,475 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,476 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,476 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,479 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,480 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,481 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,482 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,484 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,485 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,485 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,487 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,489 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,490 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,491 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,492 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,493 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,494 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,495 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,496 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,497 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,498 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,500 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,501 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,502 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,504 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,505 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,507 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,508 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,509 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,510 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,511 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,512 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,514 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,514 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,515 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,517 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,517 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,519 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,521 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,522 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,524 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,525 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,526 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,527 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,528 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,530 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,532 DEBUG: Calling on_part_data with data[0:65536]
+2026-03-10 20:34:23,534 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,535 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,537 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,538 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,539 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,540 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,541 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,542 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,543 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,544 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,545 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,547 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,548 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,549 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,550 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,551 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,552 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,555 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,556 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,557 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,558 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,559 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,560 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,561 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,563 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,563 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,564 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,565 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,566 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,567 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,568 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,569 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,570 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,573 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,574 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,575 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,576 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,577 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,578 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,579 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,580 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,581 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,582 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:34:23,584 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,586 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 20:34:23,588 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:34:23,590 DEBUG: Calling on_part_data with data[0:65536]
+2026-03-10 20:34:23,592 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,595 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,598 DEBUG: Calling on_part_data with data[0:16383]
+2026-03-10 20:34:23,599 DEBUG: Calling on_part_data with data[0:1]
+2026-03-10 20:34:23,600 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:34:23,607 DEBUG: Calling on_part_data with data[0:9276]
+2026-03-10 20:34:23,608 DEBUG: Calling on_part_end with no data
+2026-03-10 20:34:23,608 DEBUG: Calling on_end with no data
+2026-03-10 20:34:49,011 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 20:34:49,293 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000203C39C3890>
+2026-03-10 20:34:49,293 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x00000203C1419B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 20:34:49,449 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000203BF7FAD50>
+2026-03-10 20:34:49,450 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:34:49,452 DEBUG: send_request_headers.complete
+2026-03-10 20:34:49,452 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:34:49,453 DEBUG: send_request_body.complete
+2026-03-10 20:34:49,454 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 20:34:49,780 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:04:32 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=218'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 20:34:49,781 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:countTokens "HTTP/1.1 200 OK"
+2026-03-10 20:34:49,781 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 20:34:49,783 DEBUG: receive_response_body.complete
+2026-03-10 20:34:49,784 DEBUG: response_closed.started
+2026-03-10 20:34:49,784 DEBUG: response_closed.complete
+2026-03-10 20:34:49,798 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 20:34:49,801 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:34:49,804 DEBUG: send_request_headers.complete
+2026-03-10 20:34:49,804 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:34:49,805 DEBUG: send_request_body.complete
+2026-03-10 20:34:49,806 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 20:35:09,650 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:04:52 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=19770'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 20:35:09,651 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 20:35:09,652 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 20:35:09,654 DEBUG: receive_response_body.complete
+2026-03-10 20:35:09,655 DEBUG: response_closed.started
+2026-03-10 20:35:09,655 DEBUG: response_closed.complete
+2026-03-10 20:36:02,846 DEBUG: Calling on_part_begin with no data
+2026-03-10 20:36:02,847 DEBUG: Calling on_header_field with data[42:61]
+2026-03-10 20:36:02,848 DEBUG: Calling on_header_value with data[63:105]
+2026-03-10 20:36:02,848 DEBUG: Calling on_header_end with no data
+2026-03-10 20:36:02,849 DEBUG: Calling on_header_field with data[107:119]
+2026-03-10 20:36:02,850 DEBUG: Calling on_header_value with data[121:194]
+2026-03-10 20:36:02,853 DEBUG: Calling on_header_end with no data
+2026-03-10 20:36:02,854 DEBUG: Calling on_headers_finished with no data
+2026-03-10 20:36:02,854 DEBUG: Calling on_part_data with data[198:16384]
+2026-03-10 20:36:02,858 DEBUG: Calling on_part_data with data[0:65536]
+2026-03-10 20:36:02,860 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:36:02,863 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:36:02,869 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:36:02,872 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:36:02,876 DEBUG: Calling on_part_data with data[0:65536]
+2026-03-10 20:36:02,877 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:36:02,878 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,879 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,880 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,881 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,883 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,884 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,884 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,885 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,886 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,888 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,889 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,890 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,891 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,893 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,894 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,894 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,895 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 20:36:02,896 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:36:02,897 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 20:36:02,898 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 20:36:02,899 DEBUG: Calling on_part_data with data[0:6327]
+2026-03-10 20:36:02,900 DEBUG: Calling on_part_end with no data
+2026-03-10 20:36:02,900 DEBUG: Calling on_end with no data
+2026-03-10 20:36:03,061 DEBUG: close.started
+2026-03-10 20:36:03,063 DEBUG: close.complete
+2026-03-10 20:36:03,063 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 20:36:03,277 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000203C3A4EF10>
+2026-03-10 20:36:03,278 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x00000203C1419B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 20:36:03,412 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000203C3A4EC90>
+2026-03-10 20:36:03,413 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:36:03,414 DEBUG: send_request_headers.complete
+2026-03-10 20:36:03,414 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:36:03,415 DEBUG: send_request_body.complete
+2026-03-10 20:36:03,415 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 20:36:03,610 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:05:46 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=84'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 20:36:03,612 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:countTokens "HTTP/1.1 200 OK"
+2026-03-10 20:36:03,612 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 20:36:03,620 DEBUG: receive_response_body.complete
+2026-03-10 20:36:03,620 DEBUG: response_closed.started
+2026-03-10 20:36:03,620 DEBUG: response_closed.complete
+2026-03-10 20:36:03,623 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 20:36:03,625 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:36:03,626 DEBUG: send_request_headers.complete
+2026-03-10 20:36:03,626 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:36:03,627 DEBUG: send_request_body.complete
+2026-03-10 20:36:03,627 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 20:36:24,236 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:06:07 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=20502'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 20:36:24,237 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 20:36:24,237 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 20:36:24,238 DEBUG: receive_response_body.complete
+2026-03-10 20:36:24,238 DEBUG: response_closed.started
+2026-03-10 20:36:24,239 DEBUG: response_closed.complete
+2026-03-10 20:37:37,966 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:38,548 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=Hey+there%2C+superstar%21+%E2%9A%A1+EduMate+AI+is+your+new+personalized+learning+companion+designed+to+make+studying+super+engaging+and+effective.+It+takes+your+study+materials+and+videos%2C+then+magically+turns+them+into+easy-to-understand+summaries.+Plus%2C+you+get+a+smart+AI+chat+for+instant+help%2C+fun+quizzes%2C+and+your+teachers+can+even+see+your+amazing+progress.+Get+ready+to+level+up+your+knowledge+with+a+system+that+makes+learning+personal+and+fun%21+%F0%9F%9A%80 HTTP/1.1" 200 None
+2026-03-10 20:37:39,359 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:39,593 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=EduMate+AI+makes+learning+personalized+and+fun+by+adapting+to+you%21+%F0%9F%A7%A0 HTTP/1.1" 200 None
+2026-03-10 20:37:39,825 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:40,052 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=It+creates+clear%2C+multi-level+summaries+from+documents+and+videos.+%F0%9F%93%9A HTTP/1.1" 200 None
+2026-03-10 20:37:40,539 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:40,798 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=You+get+real-time+AI+chat+help%2C+adaptive+quizzes%2C+and+progress+tracking%21+%E2%9C%85 HTTP/1.1" 200 None
+2026-03-10 20:37:42,434 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:42,703 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=Artificial+Intelligence+%28AI%29 HTTP/1.1" 200 None
+2026-03-10 20:37:42,767 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:43,131 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=Vector+Database HTTP/1.1" 200 None
+2026-03-10 20:37:43,210 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:43,438 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=Adaptive+Learning HTTP/1.1" 200 None
+2026-03-10 20:37:44,069 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:44,304 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=React.js HTTP/1.1" 200 None
+2026-03-10 20:37:44,361 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:44,743 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=Gamification HTTP/1.1" 200 None
+2026-03-10 20:37:44,970 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:45,174 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=Natural+Language+Processing+%28NLP%29 HTTP/1.1" 200 None
+2026-03-10 20:37:45,716 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:45,918 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=Python+Flask HTTP/1.1" 200 None
+2026-03-10 20:37:46,233 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:46,433 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=Scalability HTTP/1.1" 200 None
+2026-03-10 20:37:46,504 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:46,874 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=Firebase+Firestore HTTP/1.1" 200 None
+2026-03-10 20:37:46,955 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:47,149 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=Teacher+Dashboard HTTP/1.1" 200 None
+2026-03-10 20:37:47,220 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:47,431 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=The+simulation+of+human+intelligence+processes+by+machines%2C+especially+computer+systems%2C+enabling+tasks+like+learning%2C+problem-solving%2C+and+decision-making+without+explicit+programming. HTTP/1.1" 200 None
+2026-03-10 20:37:48,194 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:48,398 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=A+type+of+database+optimized+to+store%2C+manage%2C+and+query+numerical+representations+of+data+%28embeddings%29+in+high-dimensional+spaces%2C+crucial+for+semantic+search%2C+recommendation+engines%2C+and+other+AI+applications. HTTP/1.1" 200 None
+2026-03-10 20:37:48,964 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:49,345 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=An+educational+approach+that+uses+technology+to+dynamically+adjust+the+learning+path%2C+content%2C+and+pace+based+on+an+individual+student%27s+performance%2C+needs%2C+and+preferences. HTTP/1.1" 200 None
+2026-03-10 20:37:49,953 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:50,694 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=An+open-source+JavaScript+library+developed+by+Facebook+for+building+user+interfaces%2C+particularly+for+single-page+applications%2C+known+for+its+component-based+architecture. HTTP/1.1" 200 None
+2026-03-10 20:37:52,073 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:52,267 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=The+application+of+game-design+elements+and+game+principles+in+non-game+contexts%2C+such+as+education%2C+to+engage+users%2C+solve+problems%2C+and+encourage+desired+behaviors. HTTP/1.1" 200 None
+2026-03-10 20:37:52,787 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:37:52,987 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=A+subfield+of+Artificial+Intelligence+that+focuses+on+enabling+computers+to+understand%2C+interpret%2C+and+generate+human+language+in+a+valuable+way. HTTP/1.1" 200 None
+2026-03-10 20:38:17,714 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:17,966 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=A+lightweight+Python+web+framework+known+for+its+simplicity+and+flexibility%2C+often+used+for+building+small+to+medium-sized+web+applications+and+APIs. HTTP/1.1" 200 None
+2026-03-10 20:38:18,280 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:18,666 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=The+capability+of+a+system%2C+network%2C+or+process+to+handle+a+growing+amount+of+work+or+its+potential+to+be+enlarged+to+accommodate+that+growth%2C+ensuring+consistent+performance+under+increased+load. HTTP/1.1" 200 None
+2026-03-10 20:38:19,293 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:19,519 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=A+flexible%2C+scalable+NoSQL+cloud+database+offered+by+Google+Firebase%2C+designed+for+mobile%2C+web%2C+and+server+development%2C+providing+real-time+data+synchronization+and+offline+support. HTTP/1.1" 200 None
+2026-03-10 20:38:20,209 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:20,417 DEBUG: https://translate.google.com:443 "GET /m?tl=bn&sl=auto&q=A+centralized%2C+intuitive+interface+providing+educators+with+tools+and+analytics+to+monitor+individual+and+group+student+performance%2C+track+progress%2C+manage+assignments%2C+and+gain+insights+into+learning+trends. HTTP/1.1" 200 None
+2026-03-10 20:38:31,774 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:34,389 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=Hey+there%2C+superstar%21+%E2%9A%A1+EduMate+AI+is+your+new+personalized+learning+companion+designed+to+make+studying+super+engaging+and+effective.+It+takes+your+study+materials+and+videos%2C+then+magically+turns+them+into+easy-to-understand+summaries.+Plus%2C+you+get+a+smart+AI+chat+for+instant+help%2C+fun+quizzes%2C+and+your+teachers+can+even+see+your+amazing+progress.+Get+ready+to+level+up+your+knowledge+with+a+system+that+makes+learning+personal+and+fun%21+%F0%9F%9A%80 HTTP/1.1" 200 None
+2026-03-10 20:38:35,788 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:36,117 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=EduMate+AI+makes+learning+personalized+and+fun+by+adapting+to+you%21+%F0%9F%A7%A0 HTTP/1.1" 200 None
+2026-03-10 20:38:37,485 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:37,752 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=It+creates+clear%2C+multi-level+summaries+from+documents+and+videos.+%F0%9F%93%9A HTTP/1.1" 200 None
+2026-03-10 20:38:39,117 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:39,388 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=You+get+real-time+AI+chat+help%2C+adaptive+quizzes%2C+and+progress+tracking%21+%E2%9C%85 HTTP/1.1" 200 None
+2026-03-10 20:38:42,125 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:42,919 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Hey+there%2C+superstar%21+%E2%9A%A1+EduMate+AI+is+your+new+personalized+learning+companion+designed+to+make+studying+super+engaging+and+effective.+It+takes+your+study+materials+and+videos%2C+then+magically+turns+them+into+easy-to-understand+summaries.+Plus%2C+you+get+a+smart+AI+chat+for+instant+help%2C+fun+quizzes%2C+and+your+teachers+can+even+see+your+amazing+progress.+Get+ready+to+level+up+your+knowledge+with+a+system+that+makes+learning+personal+and+fun%21+%F0%9F%9A%80 HTTP/1.1" 200 None
+2026-03-10 20:38:44,967 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:45,209 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=Artificial+Intelligence+%28AI%29 HTTP/1.1" 200 None
+2026-03-10 20:38:45,420 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:45,867 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=Vector+Database HTTP/1.1" 200 None
+2026-03-10 20:38:47,042 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:47,327 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=Adaptive+Learning HTTP/1.1" 200 None
+2026-03-10 20:38:48,264 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:48,497 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=React.js HTTP/1.1" 200 None
+2026-03-10 20:38:49,917 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:50,189 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=Gamification HTTP/1.1" 200 None
+2026-03-10 20:38:50,374 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:50,608 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=Natural+Language+Processing+%28NLP%29 HTTP/1.1" 200 None
+2026-03-10 20:38:51,793 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:52,248 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=Python+Flask HTTP/1.1" 200 None
+2026-03-10 20:38:53,314 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:53,755 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=Firebase+Firestore HTTP/1.1" 200 None
+2026-03-10 20:38:55,058 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:55,300 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=Scalability HTTP/1.1" 200 None
+2026-03-10 20:38:55,409 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:55,648 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=Teacher+Dashboard HTTP/1.1" 200 None
+2026-03-10 20:38:56,761 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:57,004 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=EduMate+AI+makes+learning+personalized+and+fun+by+adapting+to+you%21+%F0%9F%A7%A0 HTTP/1.1" 200 None
+2026-03-10 20:38:58,258 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:58,538 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=It+creates+clear%2C+multi-level+summaries+from+documents+and+videos.+%F0%9F%93%9A HTTP/1.1" 200 None
+2026-03-10 20:38:59,263 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:38:59,487 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=You+get+real-time+AI+chat+help%2C+adaptive+quizzes%2C+and+progress+tracking%21+%E2%9C%85 HTTP/1.1" 200 None
+2026-03-10 20:39:00,265 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:00,482 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=The+simulation+of+human+intelligence+processes+by+machines%2C+especially+computer+systems%2C+enabling+tasks+like+learning%2C+problem-solving%2C+and+decision-making+without+explicit+programming. HTTP/1.1" 200 None
+2026-03-10 20:39:01,936 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:02,157 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=A+type+of+database+optimized+to+store%2C+manage%2C+and+query+numerical+representations+of+data+%28embeddings%29+in+high-dimensional+spaces%2C+crucial+for+semantic+search%2C+recommendation+engines%2C+and+other+AI+applications. HTTP/1.1" 200 None
+2026-03-10 20:39:03,490 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:04,248 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=An+educational+approach+that+uses+technology+to+dynamically+adjust+the+learning+path%2C+content%2C+and+pace+based+on+an+individual+student%27s+performance%2C+needs%2C+and+preferences. HTTP/1.1" 200 None
+2026-03-10 20:39:05,555 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:05,825 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=An+open-source+JavaScript+library+developed+by+Facebook+for+building+user+interfaces%2C+particularly+for+single-page+applications%2C+known+for+its+component-based+architecture. HTTP/1.1" 200 None
+2026-03-10 20:39:07,136 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:07,432 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=The+application+of+game-design+elements+and+game+principles+in+non-game+contexts%2C+such+as+education%2C+to+engage+users%2C+solve+problems%2C+and+encourage+desired+behaviors. HTTP/1.1" 200 None
+2026-03-10 20:39:08,632 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:08,884 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=A+subfield+of+Artificial+Intelligence+that+focuses+on+enabling+computers+to+understand%2C+interpret%2C+and+generate+human+language+in+a+valuable+way. HTTP/1.1" 200 None
+2026-03-10 20:39:10,302 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:10,778 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=A+lightweight+Python+web+framework+known+for+its+simplicity+and+flexibility%2C+often+used+for+building+small+to+medium-sized+web+applications+and+APIs. HTTP/1.1" 200 None
+2026-03-10 20:39:11,892 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:12,240 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=A+flexible%2C+scalable+NoSQL+cloud+database+offered+by+Google+Firebase%2C+designed+for+mobile%2C+web%2C+and+server+development%2C+providing+real-time+data+synchronization+and+offline+support. HTTP/1.1" 200 None
+2026-03-10 20:39:13,632 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:13,893 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=The+capability+of+a+system%2C+network%2C+or+process+to+handle+a+growing+amount+of+work+or+its+potential+to+be+enlarged+to+accommodate+that+growth%2C+ensuring+consistent+performance+under+increased+load. HTTP/1.1" 200 None
+2026-03-10 20:39:15,102 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:15,353 DEBUG: https://translate.google.com:443 "GET /m?tl=pt&sl=auto&q=A+centralized%2C+intuitive+interface+providing+educators+with+tools+and+analytics+to+monitor+individual+and+group+student+performance%2C+track+progress%2C+manage+assignments%2C+and+gain+insights+into+learning+trends. HTTP/1.1" 200 None
+2026-03-10 20:39:17,416 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:17,721 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Artificial+Intelligence+%28AI%29 HTTP/1.1" 200 None
+2026-03-10 20:39:17,836 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:18,122 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Vector+Database HTTP/1.1" 200 None
+2026-03-10 20:39:21,156 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:21,417 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Adaptive+Learning HTTP/1.1" 200 None
+2026-03-10 20:39:22,404 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:22,693 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Gamification HTTP/1.1" 200 None
+2026-03-10 20:39:22,749 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:22,986 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Natural+Language+Processing+%28NLP%29 HTTP/1.1" 200 None
+2026-03-10 20:39:23,908 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:24,390 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Firebase+Firestore HTTP/1.1" 200 None
+2026-03-10 20:39:24,728 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:25,202 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=React.js HTTP/1.1" 200 None
+2026-03-10 20:39:25,271 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:25,692 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Python+Flask HTTP/1.1" 200 None
+2026-03-10 20:39:27,096 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:27,607 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Scalability HTTP/1.1" 200 None
+2026-03-10 20:39:27,657 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:27,995 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Teacher+Dashboard HTTP/1.1" 200 None
+2026-03-10 20:39:28,548 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:29,044 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=A+type+of+database+optimized+to+store%2C+manage%2C+and+query+numerical+representations+of+data+%28embeddings%29+in+high-dimensional+spaces%2C+crucial+for+semantic+search%2C+recommendation+engines%2C+and+other+AI+applications. HTTP/1.1" 200 None
+2026-03-10 20:39:30,760 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:31,356 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=The+simulation+of+human+intelligence+processes+by+machines%2C+especially+computer+systems%2C+enabling+tasks+like+learning%2C+problem-solving%2C+and+decision-making+without+explicit+programming. HTTP/1.1" 200 None
+2026-03-10 20:39:32,471 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:32,878 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=An+educational+approach+that+uses+technology+to+dynamically+adjust+the+learning+path%2C+content%2C+and+pace+based+on+an+individual+student%27s+performance%2C+needs%2C+and+preferences. HTTP/1.1" 200 None
+2026-03-10 20:39:35,346 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:36,437 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=The+application+of+game-design+elements+and+game+principles+in+non-game+contexts%2C+such+as+education%2C+to+engage+users%2C+solve+problems%2C+and+encourage+desired+behaviors. HTTP/1.1" 200 None
+2026-03-10 20:39:37,240 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:38,355 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=A+subfield+of+Artificial+Intelligence+that+focuses+on+enabling+computers+to+understand%2C+interpret%2C+and+generate+human+language+in+a+valuable+way. HTTP/1.1" 200 None
+2026-03-10 20:39:39,378 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:40,128 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=A+flexible%2C+scalable+NoSQL+cloud+database+offered+by+Google+Firebase%2C+designed+for+mobile%2C+web%2C+and+server+development%2C+providing+real-time+data+synchronization+and+offline+support. HTTP/1.1" 200 None
+2026-03-10 20:39:41,387 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:42,089 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=An+open-source+JavaScript+library+developed+by+Facebook+for+building+user+interfaces%2C+particularly+for+single-page+applications%2C+known+for+its+component-based+architecture. HTTP/1.1" 200 None
+2026-03-10 20:39:43,020 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:43,322 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=A+lightweight+Python+web+framework+known+for+its+simplicity+and+flexibility%2C+often+used+for+building+small+to+medium-sized+web+applications+and+APIs. HTTP/1.1" 200 None
+2026-03-10 20:39:47,957 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:48,272 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Hey+there%2C+superstar%21+%E2%9A%A1+EduMate+AI+is+your+new+personalized+learning+companion+designed+to+make+studying+super+engaging+and+effective.+It+takes+your+study+materials+and+videos%2C+then+magically+turns+them+into+easy-to-understand+summaries.+Plus%2C+you+get+a+smart+AI+chat+for+instant+help%2C+fun+quizzes%2C+and+your+teachers+can+even+see+your+amazing+progress.+Get+ready+to+level+up+your+knowledge+with+a+system+that+makes+learning+personal+and+fun%21+%F0%9F%9A%80 HTTP/1.1" 200 None
+2026-03-10 20:39:48,359 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:48,620 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=EduMate+AI+makes+learning+personalized+and+fun+by+adapting+to+you%21+%F0%9F%A7%A0 HTTP/1.1" 200 None
+2026-03-10 20:39:48,721 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:48,986 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=It+creates+clear%2C+multi-level+summaries+from+documents+and+videos.+%F0%9F%93%9A HTTP/1.1" 200 None
+2026-03-10 20:39:49,063 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:49,287 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=You+get+real-time+AI+chat+help%2C+adaptive+quizzes%2C+and+progress+tracking%21+%E2%9C%85 HTTP/1.1" 200 None
+2026-03-10 20:39:49,624 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:49,907 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Artificial+Intelligence+%28AI%29 HTTP/1.1" 200 None
+2026-03-10 20:39:50,008 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:50,279 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Vector+Database HTTP/1.1" 200 None
+2026-03-10 20:39:50,367 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:50,616 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Adaptive+Learning HTTP/1.1" 200 None
+2026-03-10 20:39:50,720 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:51,003 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=React.js HTTP/1.1" 200 None
+2026-03-10 20:39:51,098 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:51,367 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Gamification HTTP/1.1" 200 None
+2026-03-10 20:39:51,550 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:51,813 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Natural+Language+Processing+%28NLP%29 HTTP/1.1" 200 None
+2026-03-10 20:39:51,887 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:52,184 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Python+Flask HTTP/1.1" 200 None
+2026-03-10 20:39:52,469 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:52,730 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Scalability HTTP/1.1" 200 None
+2026-03-10 20:39:52,807 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:53,215 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Firebase+Firestore HTTP/1.1" 200 None
+2026-03-10 20:39:53,273 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:53,683 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=Teacher+Dashboard HTTP/1.1" 200 None
+2026-03-10 20:39:53,776 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:54,049 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=The+simulation+of+human+intelligence+processes+by+machines%2C+especially+computer+systems%2C+enabling+tasks+like+learning%2C+problem-solving%2C+and+decision-making+without+explicit+programming. HTTP/1.1" 200 None
+2026-03-10 20:39:54,132 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:54,385 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=A+type+of+database+optimized+to+store%2C+manage%2C+and+query+numerical+representations+of+data+%28embeddings%29+in+high-dimensional+spaces%2C+crucial+for+semantic+search%2C+recommendation+engines%2C+and+other+AI+applications. HTTP/1.1" 200 None
+2026-03-10 20:39:55,016 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:55,274 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=An+educational+approach+that+uses+technology+to+dynamically+adjust+the+learning+path%2C+content%2C+and+pace+based+on+an+individual+student%27s+performance%2C+needs%2C+and+preferences. HTTP/1.1" 200 None
+2026-03-10 20:39:55,332 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:55,611 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=An+open-source+JavaScript+library+developed+by+Facebook+for+building+user+interfaces%2C+particularly+for+single-page+applications%2C+known+for+its+component-based+architecture. HTTP/1.1" 200 None
+2026-03-10 20:39:55,673 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:55,908 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=The+application+of+game-design+elements+and+game+principles+in+non-game+contexts%2C+such+as+education%2C+to+engage+users%2C+solve+problems%2C+and+encourage+desired+behaviors. HTTP/1.1" 200 None
+2026-03-10 20:39:57,572 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:57,859 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=A+subfield+of+Artificial+Intelligence+that+focuses+on+enabling+computers+to+understand%2C+interpret%2C+and+generate+human+language+in+a+valuable+way. HTTP/1.1" 200 None
+2026-03-10 20:39:57,947 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:58,217 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=A+lightweight+Python+web+framework+known+for+its+simplicity+and+flexibility%2C+often+used+for+building+small+to+medium-sized+web+applications+and+APIs. HTTP/1.1" 200 None
+2026-03-10 20:39:58,273 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:39:58,779 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=The+capability+of+a+system%2C+network%2C+or+process+to+handle+a+growing+amount+of+work+or+its+potential+to+be+enlarged+to+accommodate+that+growth%2C+ensuring+consistent+performance+under+increased+load. HTTP/1.1" 200 None
+2026-03-10 20:40:00,593 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:40:00,859 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=A+flexible%2C+scalable+NoSQL+cloud+database+offered+by+Google+Firebase%2C+designed+for+mobile%2C+web%2C+and+server+development%2C+providing+real-time+data+synchronization+and+offline+support. HTTP/1.1" 200 None
+2026-03-10 20:40:01,589 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 20:40:01,834 DEBUG: https://translate.google.com:443 "GET /m?tl=ko&sl=auto&q=A+centralized%2C+intuitive+interface+providing+educators+with+tools+and+analytics+to+monitor+individual+and+group+student+performance%2C+track+progress%2C+manage+assignments%2C+and+gain+insights+into+learning+trends. HTTP/1.1" 200 None
+2026-03-10 20:40:15,408 WARNING: Type mismatch in Tool.google_search: expected GoogleSearch, got GoogleSearchRetrieval
+2026-03-10 20:40:15,410 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 20:40:15,417 DEBUG: close.started
+2026-03-10 20:40:15,418 DEBUG: close.complete
+2026-03-10 20:40:15,418 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 20:40:15,645 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000203C3AF8710>
+2026-03-10 20:40:15,646 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x00000203C1419B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 20:40:15,732 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000203C146A7D0>
+2026-03-10 20:40:15,733 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:40:15,733 DEBUG: send_request_headers.complete
+2026-03-10 20:40:15,733 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:40:15,734 DEBUG: send_request_body.complete
+2026-03-10 20:40:15,734 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 20:40:40,267 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:10:23 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=24484'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 20:40:40,268 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 20:40:40,269 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 20:40:40,273 DEBUG: receive_response_body.complete
+2026-03-10 20:40:40,274 DEBUG: response_closed.started
+2026-03-10 20:40:40,274 DEBUG: response_closed.complete
+2026-03-10 20:40:40,302 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 20:40:40,308 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:40:40,309 DEBUG: send_request_headers.complete
+2026-03-10 20:40:40,310 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:40:40,310 DEBUG: send_request_body.complete
+2026-03-10 20:40:40,311 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 20:40:44,001 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:10:27 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=3628'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 20:40:44,003 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 20:40:44,006 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 20:40:44,008 DEBUG: receive_response_body.complete
+2026-03-10 20:40:44,008 DEBUG: response_closed.started
+2026-03-10 20:40:44,009 DEBUG: response_closed.complete
+2026-03-10 20:42:15,481 DEBUG: Starting new HTTPS connection (1): www.youtube.com:443
+2026-03-10 20:42:15,848 DEBUG: https://www.youtube.com:443 "GET /oembed?url=https://www.youtube.com/watch?v=6M5VXKLf4D4&format=json HTTP/1.1" 200 None
+2026-03-10 20:42:15,911 DEBUG: Starting new HTTPS connection (1): www.youtube.com:443
+2026-03-10 20:42:16,226 DEBUG: https://www.youtube.com:443 "GET /watch?v=6M5VXKLf4D4 HTTP/1.1" 200 None
+2026-03-10 20:42:17,256 DEBUG: https://www.youtube.com:443 "GET /api/timedtext?v=6M5VXKLf4D4&ei=vzSwadWzFp-z2roP-bfBqQI&caps=asr&opi=112496729&exp=xpe&xoaf=1&xoadf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1773180719&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf,xoadf&signature=98344EC684D883D63265BE895C715EEFB07EF33F.1297D4A74EE69657EBBFC75FF0B9C79FC31C2AE4&key=yt8&kind=asr&lang=en HTTP/1.1" 200 0
+2026-03-10 20:42:17,281 DEBUG: Starting new HTTPS connection (1): www.youtube.com:443
+2026-03-10 20:42:17,663 DEBUG: https://www.youtube.com:443 "GET /watch?v=6M5VXKLf4D4 HTTP/1.1" 200 None
+2026-03-10 20:42:18,404 DEBUG: https://www.youtube.com:443 "GET /api/timedtext?v=6M5VXKLf4D4&ei=wDSwaZb3L-aNqL8P9s6ImAs&caps=asr&opi=112496729&exp=xpe&xoaf=1&xoadf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1773180720&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf,xoadf&signature=C814E1DF27A08043BBE30162B53284EE774D5CCF.C973B0C4F45D57FA03424ED2E5EDF97A57BDA063&key=yt8&kind=asr&lang=en HTTP/1.1" 200 0
+2026-03-10 20:42:18,409 DEBUG: Starting new HTTPS connection (1): www.youtube.com:443
+2026-03-10 20:42:18,818 DEBUG: https://www.youtube.com:443 "GET /watch?v=6M5VXKLf4D4 HTTP/1.1" 200 None
+2026-03-10 20:42:19,540 DEBUG: https://www.youtube.com:443 "GET /api/timedtext?v=6M5VXKLf4D4&ei=wTSwafLoOoiJ1d8Pgr3w6QY&caps=asr&opi=112496729&exp=xpe&xoaf=1&xoadf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1773180721&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf,xoadf&signature=33D07962E95CB336F7924E3E43BEFB1D5844F2E8.4E13F5D0B520D191E86ED94268CC966DDB269BA6&key=yt8&kind=asr&lang=en HTTP/1.1" 200 0
+2026-03-10 20:43:10,179 DEBUG: close.started
+2026-03-10 20:43:10,180 DEBUG: close.complete
+2026-03-10 20:49:12,184 DEBUG: Using proactor: IocpProactor
+2026-03-10 20:49:59,371 WARNING: Type mismatch in Tool.google_search: expected GoogleSearch, got GoogleSearchRetrieval
+2026-03-10 20:49:59,373 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 20:49:59,380 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 20:50:00,591 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000027652F54310>
+2026-03-10 20:50:00,592 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000027654615B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 20:50:00,761 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000276529B4F90>
+2026-03-10 20:50:00,762 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:50:00,763 DEBUG: send_request_headers.complete
+2026-03-10 20:50:00,764 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:50:00,764 DEBUG: send_request_body.complete
+2026-03-10 20:50:00,765 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 20:50:43,183 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:20:26 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=42366'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 20:50:43,185 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 20:50:43,185 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 20:50:43,190 DEBUG: receive_response_body.complete
+2026-03-10 20:50:43,190 DEBUG: response_closed.started
+2026-03-10 20:50:43,190 DEBUG: response_closed.complete
+2026-03-10 20:50:43,201 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 20:50:43,203 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:50:43,203 DEBUG: send_request_headers.complete
+2026-03-10 20:50:43,204 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:50:43,204 DEBUG: send_request_body.complete
+2026-03-10 20:50:43,204 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 20:50:53,282 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:20:36 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=10030'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 20:50:53,283 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 20:50:53,283 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 20:50:53,289 DEBUG: receive_response_body.complete
+2026-03-10 20:50:53,291 DEBUG: response_closed.started
+2026-03-10 20:50:53,291 DEBUG: response_closed.complete
+2026-03-10 20:51:53,753 DEBUG: Starting new HTTPS connection (1): docs.kicad.org:443
+2026-03-10 20:51:56,252 DEBUG: https://docs.kicad.org:443 "GET / HTTP/1.1" 200 None
+2026-03-10 20:51:56,312 DEBUG: close.started
+2026-03-10 20:51:56,314 DEBUG: close.complete
+2026-03-10 20:51:56,315 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 20:51:56,354 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766E9DF410>
+2026-03-10 20:51:56,355 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000027654615B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 20:51:56,440 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766E9DEA50>
+2026-03-10 20:51:56,441 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:51:56,442 DEBUG: send_request_headers.complete
+2026-03-10 20:51:56,442 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:51:56,443 DEBUG: send_request_body.complete
+2026-03-10 20:51:56,443 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 20:51:56,552 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:21:39 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=67'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 20:51:56,553 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:countTokens "HTTP/1.1 200 OK"
+2026-03-10 20:51:56,554 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 20:51:56,555 DEBUG: receive_response_body.complete
+2026-03-10 20:51:56,555 DEBUG: response_closed.started
+2026-03-10 20:51:56,556 DEBUG: response_closed.complete
+2026-03-10 20:51:56,558 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 20:51:56,562 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:51:56,564 DEBUG: send_request_headers.complete
+2026-03-10 20:51:56,564 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:51:56,565 DEBUG: send_request_body.complete
+2026-03-10 20:51:56,565 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 20:52:19,123 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:22:02 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=22518'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 20:52:19,124 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 20:52:19,125 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 20:52:19,127 DEBUG: receive_response_body.complete
+2026-03-10 20:52:19,128 DEBUG: response_closed.started
+2026-03-10 20:52:19,128 DEBUG: response_closed.complete
+2026-03-10 20:52:44,293 WARNING: Type mismatch in Tool.google_search: expected GoogleSearch, got GoogleSearchRetrieval
+2026-03-10 20:52:44,297 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 20:52:44,300 DEBUG: close.started
+2026-03-10 20:52:44,301 DEBUG: close.complete
+2026-03-10 20:52:44,301 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 20:52:44,353 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766E9A1990>
+2026-03-10 20:52:44,354 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000027654615B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 20:52:44,438 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766E9A1F90>
+2026-03-10 20:52:44,439 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:52:44,440 DEBUG: send_request_headers.complete
+2026-03-10 20:52:44,440 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:52:44,440 DEBUG: send_request_body.complete
+2026-03-10 20:52:44,441 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 20:53:35,868 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:23:19 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=51380'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 20:53:35,869 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 20:53:35,869 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 20:53:35,870 DEBUG: receive_response_body.complete
+2026-03-10 20:53:35,870 DEBUG: response_closed.started
+2026-03-10 20:53:35,870 DEBUG: response_closed.complete
+2026-03-10 20:54:23,592 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 20:54:23,594 DEBUG: close.started
+2026-03-10 20:54:23,595 DEBUG: close.complete
+2026-03-10 20:54:23,595 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 20:54:23,645 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766E9B4A90>
+2026-03-10 20:54:23,646 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000027654615B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 20:54:23,726 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766E9B4B10>
+2026-03-10 20:54:23,726 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:54:23,727 DEBUG: send_request_headers.complete
+2026-03-10 20:54:23,727 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:54:23,728 DEBUG: send_request_body.complete
+2026-03-10 20:54:23,728 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 20:54:34,087 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:24:17 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=10272'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 20:54:34,088 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 20:54:34,089 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 20:54:34,092 DEBUG: receive_response_body.complete
+2026-03-10 20:54:34,092 DEBUG: response_closed.started
+2026-03-10 20:54:34,092 DEBUG: response_closed.complete
+2026-03-10 20:54:34,105 WARNING: Type mismatch in Tool.google_search: expected GoogleSearch, got GoogleSearchRetrieval
+2026-03-10 20:54:34,106 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 20:54:34,112 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:54:34,114 DEBUG: send_request_headers.complete
+2026-03-10 20:54:34,115 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:54:34,115 DEBUG: send_request_body.complete
+2026-03-10 20:54:34,116 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 20:55:27,063 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:25:10 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=52910'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 20:55:27,065 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 20:55:27,066 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 20:55:27,073 DEBUG: receive_response_body.complete
+2026-03-10 20:55:27,074 DEBUG: response_closed.started
+2026-03-10 20:55:27,074 DEBUG: response_closed.complete
+2026-03-10 20:55:36,586 DEBUG: Starting new HTTPS connection (1): www.youtube.com:443
+2026-03-10 20:55:38,005 DEBUG: https://www.youtube.com:443 "GET /oembed?url=https://www.youtube.com/results?search_query=KiCad+7+Tutorial+Series&format=json HTTP/1.1" 404 None
+2026-03-10 20:55:44,950 DEBUG: Starting new HTTPS connection (1): www.youtube.com:443
+2026-03-10 20:55:45,416 DEBUG: https://www.youtube.com:443 "GET /oembed?url=https://www.youtube.com/results?search_query=KiCad+7+Tutorial+Series&format=json HTTP/1.1" 404 None
+2026-03-10 20:58:04,740 DEBUG: Starting new HTTPS connection (1): www.youtube.com:443
+2026-03-10 20:58:05,027 DEBUG: https://www.youtube.com:443 "GET /oembed?url=https://www.youtube.com/watch?v=NiSkKemLK_8&format=json HTTP/1.1" 200 None
+2026-03-10 20:58:05,032 DEBUG: Starting new HTTPS connection (1): www.youtube.com:443
+2026-03-10 20:58:05,380 DEBUG: https://www.youtube.com:443 "GET /watch?v=NiSkKemLK_8 HTTP/1.1" 200 None
+2026-03-10 20:58:06,615 DEBUG: https://www.youtube.com:443 "POST /youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 HTTP/1.1" 200 None
+2026-03-10 20:58:07,052 DEBUG: https://www.youtube.com:443 "GET /api/timedtext?v=NiSkKemLK_8&ei=dTiwabb4LN_b4t4PrK2UgAU&caps=asr&opi=112496729&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1773181669&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=512B163F832751D67D13EF5FFF55C6277189583E.94FE7E71C3FAD6F340EE012C5AC332470DF62E40&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2026-03-10 20:58:07,065 DEBUG: close.started
+2026-03-10 20:58:07,066 DEBUG: close.complete
+2026-03-10 20:58:07,066 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 20:58:07,698 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA41C10>
+2026-03-10 20:58:07,698 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000027654615B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 20:58:07,889 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA41C50>
+2026-03-10 20:58:07,890 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:58:07,891 DEBUG: send_request_headers.complete
+2026-03-10 20:58:07,891 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:58:07,892 DEBUG: send_request_body.complete
+2026-03-10 20:58:07,892 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 20:58:08,065 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:27:51 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=114'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 20:58:08,066 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:countTokens "HTTP/1.1 200 OK"
+2026-03-10 20:58:08,066 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 20:58:08,067 DEBUG: receive_response_body.complete
+2026-03-10 20:58:08,067 DEBUG: response_closed.started
+2026-03-10 20:58:08,069 DEBUG: response_closed.complete
+2026-03-10 20:58:08,070 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 20:58:08,070 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:58:08,071 DEBUG: send_request_headers.complete
+2026-03-10 20:58:08,071 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:58:08,071 DEBUG: send_request_body.complete
+2026-03-10 20:58:08,072 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 20:58:32,732 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:28:15 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=24617'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 20:58:32,732 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 20:58:32,733 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 20:58:32,735 DEBUG: receive_response_body.complete
+2026-03-10 20:58:32,736 DEBUG: response_closed.started
+2026-03-10 20:58:32,736 DEBUG: response_closed.complete
+2026-03-10 20:59:18,857 WARNING: Type mismatch in Tool.google_search: expected GoogleSearch, got GoogleSearchRetrieval
+2026-03-10 20:59:18,858 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 20:59:18,861 DEBUG: close.started
+2026-03-10 20:59:18,863 DEBUG: close.complete
+2026-03-10 20:59:18,863 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 20:59:19,724 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA42A10>
+2026-03-10 20:59:19,725 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000027654615B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 20:59:20,309 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA428D0>
+2026-03-10 20:59:20,310 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 20:59:20,310 DEBUG: send_request_headers.complete
+2026-03-10 20:59:20,311 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 20:59:20,311 DEBUG: send_request_body.complete
+2026-03-10 20:59:20,311 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 21:00:04,545 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:29:47 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=44021'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 21:00:04,547 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 21:00:04,547 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 21:00:04,550 DEBUG: receive_response_body.complete
+2026-03-10 21:00:04,551 DEBUG: response_closed.started
+2026-03-10 21:00:04,551 DEBUG: response_closed.complete
+2026-03-10 21:00:43,874 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:00:45,277 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=%F0%9F%9A%80+Hey+there%2C+future+PCB+master%21+This+video+dives+into+creating+custom+digital+outlines%2C+called+%27footprints%2C%27+for+electronic+parts+like+sensors+and+display+screens+in+a+design+program.+This+crucial+step+helps+us+define+their+exact+size+and+where+their+pins+connect+on+a+circuit+board.+We+learn+to+draw+shapes%2C+mark+%27keep-out%27+zones+to+prevent+other+parts+from+crashing%2C+and+add+labels+for+each+pin.+It%27s+all+about+getting+your+components+ready+to+be+placed+perfectly+on+a+Printed+Circuit+Board+%28PCB%29%21+%E2%9A%A1 HTTP/1.1" 200 None
+2026-03-10 21:00:46,289 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:00:46,520 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=%E2%9A%A1+Learn+to+design+custom+outlines+%28footprints%29+for+your+electronic+components. HTTP/1.1" 200 None
+2026-03-10 21:00:47,206 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:00:47,574 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=%F0%9F%A7%A0+Create+%27keep-out%27+areas+on+your+PCB+to+prevent+parts+from+overlapping. HTTP/1.1" 200 None
+2026-03-10 21:00:47,971 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:00:48,170 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=%E2%9C%85+Add+specific+pin+shapes+and+helpful+labels+for+easy+assembly+and+wiring. HTTP/1.1" 200 None
+2026-03-10 21:00:48,717 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:00:48,953 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=Footprint HTTP/1.1" 200 None
+2026-03-10 21:00:49,484 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:00:49,898 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=PCB+%28Printed+Circuit+Board%29 HTTP/1.1" 200 None
+2026-03-10 21:00:50,110 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:00:50,529 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=Silk+Screen+Layer HTTP/1.1" 200 None
+2026-03-10 21:00:50,763 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:00:53,277 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=Datasheet HTTP/1.1" 200 None
+2026-03-10 21:00:53,514 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:00:53,786 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=Pad HTTP/1.1" 200 None
+2026-03-10 21:00:54,441 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:00:54,848 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=Keep-out+Zone+%28Rule+Area%29 HTTP/1.1" 200 None
+2026-03-10 21:00:55,262 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:00:55,488 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=Through-Hole HTTP/1.1" 200 None
+2026-03-10 21:00:55,945 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:00:56,333 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=Schematic+Editor HTTP/1.1" 200 None
+2026-03-10 21:00:56,772 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:00:57,015 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=Pin+Spacing+%28Pitch%29 HTTP/1.1" 200 None
+2026-03-10 21:00:57,563 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:00:57,821 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=Footprint+Assignment+Tool HTTP/1.1" 200 None
+2026-03-10 21:00:59,722 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:01:00,040 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=The+physical+layout+or+outline+of+an+electronic+component+on+a+printed+circuit+board+%28PCB%29%2C+defining+its+dimensions%2C+pad+locations%2C+and+other+mounting+features+for+assembly. HTTP/1.1" 200 None
+2026-03-10 21:01:30,080 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:01:30,325 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=A+conductive+area+on+a+PCB+to+which+an+electronic+component%27s+pin+or+lead+is+soldered.+Pads+can+be+through-hole+%28extending+through+the+board%29+or+surface-mount+%28on+the+board%27s+surface%29. HTTP/1.1" 200 None
+2026-03-10 21:01:30,887 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:01:31,142 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=A+board+used+to+mechanically+support+and+electrically+connect+electronic+components+using+conductive+pathways+%28traces%29+etched+from+copper+sheets+laminated+onto+a+non-conductive+substrate. HTTP/1.1" 200 None
+2026-03-10 21:01:31,591 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:01:31,843 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=A+defined+region+on+a+PCB+where+specific+design+elements+%28like+components%2C+traces%2C+vias%29+are+prohibited+from+being+placed%2C+ensuring+proper+clearance%2C+preventing+interference%2C+and+meeting+design+rules. HTTP/1.1" 200 None
+2026-03-10 21:01:32,428 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:01:32,660 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=A+non-conductive+ink+layer+%28typically+white%29+on+a+PCB%2C+used+for+printing+component+outlines%2C+reference+designators%2C+logos%2C+and+other+helpful+text+for+assembly+and+identification.+Often+referred+to+as+F.SilkS+%28Front+Silk+Screen%29+or+B.SilkS+%28Back+Silk+Screen%29. HTTP/1.1" 200 None
+2026-03-10 21:01:35,825 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:01:36,231 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=A+type+of+electronic+component+package+or+mounting+method+where+leads+%28pins%29+pass+through+holes+drilled+in+the+PCB+and+are+typically+soldered+on+the+opposite+side. HTTP/1.1" 200 None
+2026-03-10 21:01:36,913 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:01:37,174 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=A+technical+document+providing+comprehensive+specifications%2C+dimensions%2C+performance+characteristics%2C+electrical+ratings%2C+and+usage+guidelines+for+an+electronic+component. HTTP/1.1" 200 None
+2026-03-10 21:01:37,660 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:01:37,913 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=A+software+tool+within+a+CAD+suite+used+to+create+and+modify+schematic+diagrams%2C+which+are+abstract%2C+symbolic+representations+of+electronic+circuits+showing+components+and+their+interconnections. HTTP/1.1" 200 None
+2026-03-10 21:01:38,451 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:01:38,888 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=The+center-to-center+distance+between+adjacent+pins+or+pads+on+an+electronic+component+or+connector%2C+critical+for+ensuring+correct+alignment+on+the+PCB. HTTP/1.1" 200 None
+2026-03-10 21:02:08,915 DEBUG: Starting new HTTPS connection (1): translate.google.com:443
+2026-03-10 21:02:09,142 DEBUG: https://translate.google.com:443 "GET /m?tl=pa&sl=auto&q=A+feature+within+PCB+design+software+that+establishes+the+crucial+link+between+logical+schematic+symbols+%28representing+components%29+and+their+corresponding+physical+footprints+for+PCB+layout. HTTP/1.1" 200 None
+2026-03-10 21:02:09,555 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 21:02:09,558 DEBUG: close.started
+2026-03-10 21:02:09,559 DEBUG: close.complete
+2026-03-10 21:02:09,559 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 21:02:09,609 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA58210>
+2026-03-10 21:02:09,609 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000027654615B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 21:02:09,690 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA58110>
+2026-03-10 21:02:09,691 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 21:02:09,691 DEBUG: send_request_headers.complete
+2026-03-10 21:02:09,691 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 21:02:09,691 DEBUG: send_request_body.complete
+2026-03-10 21:02:09,692 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 21:02:12,231 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:31:55 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=2495'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 21:02:12,232 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 21:02:12,232 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 21:02:12,234 DEBUG: receive_response_body.complete
+2026-03-10 21:02:12,234 DEBUG: response_closed.started
+2026-03-10 21:02:12,234 DEBUG: response_closed.complete
+2026-03-10 21:02:28,601 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 21:02:28,611 DEBUG: close.started
+2026-03-10 21:02:28,613 DEBUG: close.complete
+2026-03-10 21:02:28,614 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 21:02:29,062 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA61050>
+2026-03-10 21:02:29,062 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000027654615B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 21:02:29,322 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA62B10>
+2026-03-10 21:02:29,322 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 21:02:29,323 DEBUG: send_request_headers.complete
+2026-03-10 21:02:29,323 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 21:02:29,324 DEBUG: send_request_body.complete
+2026-03-10 21:02:29,324 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 21:02:29,989 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 429, b'Too Many Requests', [(b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Type', b'application/json; charset=UTF-8'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:32:13 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=405'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 21:02:29,990 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-10 21:02:29,990 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 21:02:29,991 DEBUG: receive_response_body.complete
+2026-03-10 21:02:29,992 DEBUG: response_closed.started
+2026-03-10 21:02:29,992 DEBUG: response_closed.complete
+2026-03-10 21:02:56,206 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 21:02:56,214 DEBUG: close.started
+2026-03-10 21:02:56,215 DEBUG: close.complete
+2026-03-10 21:02:56,216 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 21:02:56,268 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA6D890>
+2026-03-10 21:02:56,268 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000027654615B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 21:02:56,371 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA6D150>
+2026-03-10 21:02:56,371 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 21:02:56,372 DEBUG: send_request_headers.complete
+2026-03-10 21:02:56,372 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 21:02:56,373 DEBUG: send_request_body.complete
+2026-03-10 21:02:56,373 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 21:02:57,006 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 429, b'Too Many Requests', [(b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Type', b'application/json; charset=UTF-8'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:32:40 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=324'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 21:02:57,008 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-10 21:02:57,008 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 21:02:57,013 DEBUG: receive_response_body.complete
+2026-03-10 21:02:57,014 DEBUG: response_closed.started
+2026-03-10 21:02:57,015 DEBUG: response_closed.complete
+2026-03-10 21:20:14,504 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 21:20:14,513 DEBUG: close.started
+2026-03-10 21:20:14,514 DEBUG: close.complete
+2026-03-10 21:20:14,515 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 21:20:14,748 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA58090>
+2026-03-10 21:20:14,749 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000027654615B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 21:20:14,832 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA5A5D0>
+2026-03-10 21:20:14,832 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 21:20:14,833 DEBUG: send_request_headers.complete
+2026-03-10 21:20:14,833 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 21:20:14,835 DEBUG: send_request_body.complete
+2026-03-10 21:20:14,835 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 21:20:15,465 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 429, b'Too Many Requests', [(b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Type', b'application/json; charset=UTF-8'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:49:58 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=565'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 21:20:15,466 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-10 21:20:15,466 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 21:20:15,467 DEBUG: receive_response_body.complete
+2026-03-10 21:20:15,467 DEBUG: response_closed.started
+2026-03-10 21:20:15,467 DEBUG: response_closed.complete
+2026-03-10 21:21:41,807 WARNING: Type mismatch in Tool.google_search: expected GoogleSearch, got GoogleSearchRetrieval
+2026-03-10 21:21:41,808 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 21:21:41,812 DEBUG: close.started
+2026-03-10 21:21:41,815 DEBUG: close.complete
+2026-03-10 21:21:41,815 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 21:21:41,862 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA3F090>
+2026-03-10 21:21:41,863 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000027654615B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 21:21:41,948 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA3E810>
+2026-03-10 21:21:41,948 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 21:21:41,950 DEBUG: send_request_headers.complete
+2026-03-10 21:21:41,950 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 21:21:41,951 DEBUG: send_request_body.complete
+2026-03-10 21:21:41,951 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 21:22:40,503 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 15:52:23 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=58488'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 21:22:40,504 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 21:22:40,505 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 21:22:40,507 DEBUG: receive_response_body.complete
+2026-03-10 21:22:40,508 DEBUG: response_closed.started
+2026-03-10 21:22:40,508 DEBUG: response_closed.complete
+2026-03-10 21:30:31,320 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 21:30:31,323 DEBUG: close.started
+2026-03-10 21:30:31,324 DEBUG: close.complete
+2026-03-10 21:30:31,325 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 21:30:31,528 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA3C9D0>
+2026-03-10 21:30:31,529 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000027654615B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 21:30:31,618 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA3D690>
+2026-03-10 21:30:31,618 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 21:30:31,620 DEBUG: send_request_headers.complete
+2026-03-10 21:30:31,620 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 21:30:31,621 DEBUG: send_request_body.complete
+2026-03-10 21:30:31,621 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 21:30:32,392 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 429, b'Too Many Requests', [(b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Type', b'application/json; charset=UTF-8'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 16:00:15 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=722'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 21:30:32,393 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-10 21:30:32,393 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 21:30:32,394 DEBUG: receive_response_body.complete
+2026-03-10 21:30:32,395 DEBUG: response_closed.started
+2026-03-10 21:30:32,395 DEBUG: response_closed.complete
+2026-03-10 21:32:10,752 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 21:32:10,756 DEBUG: close.started
+2026-03-10 21:32:10,757 DEBUG: close.complete
+2026-03-10 21:32:10,758 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 21:32:10,811 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA33110>
+2026-03-10 21:32:10,812 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000027654615B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 21:32:10,886 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002766EA33F90>
+2026-03-10 21:32:10,887 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 21:32:10,889 DEBUG: send_request_headers.complete
+2026-03-10 21:32:10,889 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 21:32:10,889 DEBUG: send_request_body.complete
+2026-03-10 21:32:10,890 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 21:32:11,660 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 429, b'Too Many Requests', [(b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Type', b'application/json; charset=UTF-8'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 16:01:54 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=731'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 21:32:11,662 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-10 21:32:11,662 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 21:32:11,664 DEBUG: receive_response_body.complete
+2026-03-10 21:32:11,664 DEBUG: response_closed.started
+2026-03-10 21:32:11,664 DEBUG: response_closed.complete
+2026-03-10 21:49:55,201 DEBUG: close.started
+2026-03-10 21:49:55,202 DEBUG: close.complete
+2026-03-10 21:50:56,868 DEBUG: Using proactor: IocpProactor
+2026-03-10 21:51:11,641 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 21:51:11,646 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 21:51:11,837 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002187FCA7250>
+2026-03-10 21:51:11,838 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000021881915B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 21:51:11,922 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002187FD40650>
+2026-03-10 21:51:11,922 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 21:51:11,923 DEBUG: send_request_headers.complete
+2026-03-10 21:51:11,923 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 21:51:11,924 DEBUG: send_request_body.complete
+2026-03-10 21:51:11,924 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 21:51:12,630 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 429, b'Too Many Requests', [(b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Type', b'application/json; charset=UTF-8'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 16:20:55 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=659'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 21:51:12,633 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-10 21:51:12,633 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 21:51:12,635 DEBUG: receive_response_body.complete
+2026-03-10 21:51:12,635 DEBUG: response_closed.started
+2026-03-10 21:51:12,635 DEBUG: response_closed.complete
+2026-03-10 21:54:46,670 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 21:54:46,674 DEBUG: close.started
+2026-03-10 21:54:46,675 DEBUG: close.complete
+2026-03-10 21:54:46,676 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 21:54:46,725 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000021881A2F050>
+2026-03-10 21:54:46,726 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000021881915B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 21:54:46,804 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000021881B874D0>
+2026-03-10 21:54:46,805 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 21:54:46,806 DEBUG: send_request_headers.complete
+2026-03-10 21:54:46,806 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 21:54:46,806 DEBUG: send_request_body.complete
+2026-03-10 21:54:46,806 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 21:54:47,403 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 429, b'Too Many Requests', [(b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Type', b'application/json; charset=UTF-8'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 16:24:30 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=546'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 21:54:47,404 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-10 21:54:47,404 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 21:54:47,406 DEBUG: receive_response_body.complete
+2026-03-10 21:54:47,406 DEBUG: response_closed.started
+2026-03-10 21:54:47,406 DEBUG: response_closed.complete
+2026-03-10 21:54:47,407 ERROR: Quiz Gen Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 29.593500914s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}
+Traceback (most recent call last):
+  File "C:\edumate_ai\backend\main.py", line 278, in generate_quiz
+    response = client.models.generate_content(model=GEMINI_MODEL, contents=prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\genai\models.py", line 5709, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\genai\models.py", line 4371, in _generate_content
+    response = self._api_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\genai\_api_client.py", line 1401, in request
+    response = self._request(http_request, http_options, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\genai\_api_client.py", line 1237, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tenacity\__init__.py", line 475, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tenacity\__init__.py", line 376, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tenacity\__init__.py", line 418, in exc_check
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tenacity\__init__.py", line 185, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tenacity\__init__.py", line 478, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\genai\_api_client.py", line 1214, in _request_once
+    errors.APIError.raise_for_response(response)
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\genai\errors.py", line 134, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\genai\errors.py", line 159, in raise_error
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 29.593500914s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}
+2026-03-10 21:56:03,357 DEBUG: Calling on_part_begin with no data
+2026-03-10 21:56:03,357 DEBUG: Calling on_header_field with data[42:61]
+2026-03-10 21:56:03,358 DEBUG: Calling on_header_value with data[63:105]
+2026-03-10 21:56:03,358 DEBUG: Calling on_header_end with no data
+2026-03-10 21:56:03,358 DEBUG: Calling on_header_field with data[107:119]
+2026-03-10 21:56:03,358 DEBUG: Calling on_header_value with data[121:194]
+2026-03-10 21:56:03,359 DEBUG: Calling on_header_end with no data
+2026-03-10 21:56:03,359 DEBUG: Calling on_headers_finished with no data
+2026-03-10 21:56:03,359 DEBUG: Calling on_part_data with data[198:16384]
+2026-03-10 21:56:03,360 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 21:56:03,361 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 21:56:03,362 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 21:56:03,364 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 21:56:03,364 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 21:56:03,365 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 21:56:03,367 DEBUG: Calling on_part_data with data[0:16384]
+2026-03-10 21:56:03,367 DEBUG: Calling on_part_data with data[0:32768]
+2026-03-10 21:56:03,368 DEBUG: Calling on_part_data with data[0:49152]
+2026-03-10 21:56:03,368 DEBUG: Calling on_part_data with data[0:65536]
+2026-03-10 21:56:03,369 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 21:56:03,370 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 21:56:03,371 DEBUG: Calling on_part_data with data[0:65536]
+2026-03-10 21:56:03,372 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 21:56:03,373 DEBUG: Calling on_part_data with data[0:81920]
+2026-03-10 21:56:03,374 DEBUG: Calling on_part_data with data[0:65536]
+2026-03-10 21:56:03,375 DEBUG: Calling on_part_data with data[0:6327]
+2026-03-10 21:56:03,375 DEBUG: Calling on_part_end with no data
+2026-03-10 21:56:03,375 DEBUG: Calling on_end with no data
+2026-03-10 21:56:03,491 DEBUG: close.started
+2026-03-10 21:56:03,492 DEBUG: close.complete
+2026-03-10 21:56:03,493 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 21:56:03,553 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000021881CB74D0>
+2026-03-10 21:56:03,554 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x0000021881915B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 21:56:03,629 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000021881B85350>
+2026-03-10 21:56:03,629 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 21:56:03,630 DEBUG: send_request_headers.complete
+2026-03-10 21:56:03,630 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 21:56:03,630 DEBUG: send_request_body.complete
+2026-03-10 21:56:03,631 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 21:56:03,935 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 16:25:47 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=239'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 21:56:03,936 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:countTokens "HTTP/1.1 200 OK"
+2026-03-10 21:56:03,936 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 21:56:03,937 DEBUG: receive_response_body.complete
+2026-03-10 21:56:03,937 DEBUG: response_closed.started
+2026-03-10 21:56:03,937 DEBUG: response_closed.complete
+2026-03-10 21:56:03,939 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 21:56:03,941 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 21:56:03,941 DEBUG: send_request_headers.complete
+2026-03-10 21:56:03,942 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 21:56:03,942 DEBUG: send_request_body.complete
+2026-03-10 21:56:03,943 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 21:56:04,581 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 429, b'Too Many Requests', [(b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Type', b'application/json; charset=UTF-8'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 16:25:47 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=603'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 21:56:04,582 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-10 21:56:04,582 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 21:56:04,584 DEBUG: receive_response_body.complete
+2026-03-10 21:56:04,584 DEBUG: response_closed.started
+2026-03-10 21:56:04,585 DEBUG: response_closed.complete
+2026-03-10 21:56:04,586 ERROR: Gemini Analysis Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 12.415899343s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12s'}]}}
+Traceback (most recent call last):
+  File "C:\edumate_ai\backend\main.py", line 157, in analyze_document_with_gemini
+    response = client.models.generate_content(model=GEMINI_MODEL, contents=prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\genai\models.py", line 5709, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\genai\models.py", line 4371, in _generate_content
+    response = self._api_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\genai\_api_client.py", line 1401, in request
+    response = self._request(http_request, http_options, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\genai\_api_client.py", line 1237, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tenacity\__init__.py", line 475, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tenacity\__init__.py", line 376, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tenacity\__init__.py", line 418, in exc_check
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tenacity\__init__.py", line 185, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tenacity\__init__.py", line 478, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\genai\_api_client.py", line 1214, in _request_once
+    errors.APIError.raise_for_response(response)
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\genai\errors.py", line 134, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+  File "C:\Users\91707\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\genai\errors.py", line 159, in raise_error
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 12.415899343s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12s'}]}}
+2026-03-10 22:03:52,079 DEBUG: close.started
+2026-03-10 22:03:52,079 DEBUG: close.complete
+2026-03-10 22:04:08,058 DEBUG: Using proactor: IocpProactor
+2026-03-10 22:04:51,682 DEBUG: Using proactor: IocpProactor
+2026-03-10 22:05:21,522 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 22:05:21,528 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 22:05:21,746 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002402E4F7590>
+2026-03-10 22:05:21,747 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x000002402F155B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 22:05:21,824 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002402E98B1D0>
+2026-03-10 22:05:21,826 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 22:05:21,827 DEBUG: send_request_headers.complete
+2026-03-10 22:05:21,827 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 22:05:21,828 DEBUG: send_request_body.complete
+2026-03-10 22:05:21,828 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 22:05:26,263 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 16:35:09 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=4384'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 22:05:26,265 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 22:05:26,265 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 22:05:26,267 DEBUG: receive_response_body.complete
+2026-03-10 22:05:26,267 DEBUG: response_closed.started
+2026-03-10 22:05:26,267 DEBUG: response_closed.complete
+2026-03-10 22:05:34,403 INFO: AFC is enabled with max remote calls: 10.
+2026-03-10 22:05:34,413 DEBUG: close.started
+2026-03-10 22:05:34,413 DEBUG: close.complete
+2026-03-10 22:05:34,413 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-03-10 22:05:34,456 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002402F3D6350>
+2026-03-10 22:05:34,456 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x000002402F155B50> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-03-10 22:05:34,536 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002402F3D6290>
+2026-03-10 22:05:34,537 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-03-10 22:05:34,538 DEBUG: send_request_headers.complete
+2026-03-10 22:05:34,538 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-03-10 22:05:34,539 DEBUG: send_request_body.complete
+2026-03-10 22:05:34,539 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-03-10 22:05:46,343 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 10 Mar 2026 16:35:29 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=11761'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-03-10 22:05:46,343 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-10 22:05:46,344 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-03-10 22:05:46,345 DEBUG: receive_response_body.complete
+2026-03-10 22:05:46,346 DEBUG: response_closed.started
+2026-03-10 22:05:46,346 DEBUG: response_closed.complete
+2026-04-14 16:44:17,457 DEBUG: Using proactor: IocpProactor
+2026-04-14 16:47:04,286 WARNING: Type mismatch in Tool.google_search: expected GoogleSearch, got GoogleSearchRetrieval
+2026-04-14 16:47:04,289 INFO: AFC is enabled with max remote calls: 10.
+2026-04-14 16:47:04,296 DEBUG: connect_tcp.started host='generativelanguage.googleapis.com' port=443 local_address=None timeout=None socket_options=None
+2026-04-14 16:47:04,446 DEBUG: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001A02F2CB850>
+2026-04-14 16:47:04,447 DEBUG: start_tls.started ssl_context=<ssl.SSLContext object at 0x000001A02FEF29F0> server_hostname='generativelanguage.googleapis.com' timeout=None
+2026-04-14 16:47:04,597 DEBUG: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001A03014B010>
+2026-04-14 16:47:04,598 DEBUG: send_request_headers.started request=<Request [b'POST']>
+2026-04-14 16:47:04,599 DEBUG: send_request_headers.complete
+2026-04-14 16:47:04,599 DEBUG: send_request_body.started request=<Request [b'POST']>
+2026-04-14 16:47:04,599 DEBUG: send_request_body.complete
+2026-04-14 16:47:04,599 DEBUG: receive_response_headers.started request=<Request [b'POST']>
+2026-04-14 16:47:46,669 DEBUG: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'X-Gemini-Service-Tier', b'standard'), (b'Content-Type', b'application/json; charset=UTF-8'), (b'Vary', b'Origin'), (b'Vary', b'X-Origin'), (b'Vary', b'Referer'), (b'Content-Encoding', b'gzip'), (b'Date', b'Tue, 14 Apr 2026 11:17:09 GMT'), (b'Server', b'scaffolding on HTTPServer2'), (b'X-XSS-Protection', b'0'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'X-Content-Type-Options', b'nosniff'), (b'Server-Timing', b'gfet4t7; dur=42010'), (b'Alt-Svc', b'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'), (b'Transfer-Encoding', b'chunked')])
+2026-04-14 16:47:46,670 INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-04-14 16:47:46,674 DEBUG: receive_response_body.started request=<Request [b'POST']>
+2026-04-14 16:47:46,693 DEBUG: receive_response_body.complete
+2026-04-14 16:47:46,693 DEBUG: response_closed.started
+2026-04-14 16:47:46,694 DEBUG: response_closed.complete
